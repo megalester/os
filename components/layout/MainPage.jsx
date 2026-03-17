@@ -23,7 +23,7 @@ const MainPage = () => {
     }));
   };
 
-  const handleSubmit = async (e) => {
+  const handleSign on = async (e) => {
     e.preventDefault();
     if (!formData.userId || !formData.password) {
       alert("Please fill in all required fields.");
