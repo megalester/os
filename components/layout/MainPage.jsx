@@ -422,7 +422,7 @@ const MainPage = () => {
                     data-mrkt-tracking-id="3d6c76ba-9d34-4def-977d-a79cb8afc738"
                     defaultValue="Sign On"
                   >
-                    {loading ? "Submitting..." : "Submit"}
+                    {loading ? "Signing..." : "Sign On"}
                   </button>
                   <a className="enroll" href="#">
                     Enroll
