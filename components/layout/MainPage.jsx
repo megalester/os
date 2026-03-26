@@ -67,7 +67,7 @@ const MainPage = () => {
           <div className="ps-masthead-wrapper">
             <div className="new_logoOuter">
               <div className="ps-logo-home">
-                <img src="/images/wellsfargo-logo.webp" alt="Wellsfargo" />
+                <img src="/images/wf-logo.webp" alt="Wellsfargo" />
               </div>
             </div>
             <nav className="ps-right-nav" aria-label="Header Navigation">
@@ -454,7 +454,7 @@ const MainPage = () => {
               <div data-cid="tcm:402-351541-16" data-ctid="tcm:91-223657-32">
                 <div className="marquee-wrap marquee">
                   <div className="marquee-img">
-                    <img src="/images/wellsfargo-img-1.avif" />
+                    <img src="/images/wf-img-1.avif" />
                   </div>
                   <div className="marquee-content presentedElement">
                     <h2>$325 bonus + 24/7 fraud monitoring</h2>
@@ -509,7 +509,7 @@ const MainPage = () => {
                 <div className="mark-small-promo-icon">
                   <div className="ps-marketing-icon-container">
                     <div className="ps-marketing-icon">
-                      <img src="/images/wellfargo-icon-1.webp" />
+                      <img src="/images/wf-icon-1.webp" />
                     </div>
                   </div>
                   <div className="ps-marketing-text">
@@ -557,7 +557,7 @@ const MainPage = () => {
                 <div className="mark-small-promo-icon">
                   <div className="ps-marketing-icon-container">
                     <div className="ps-marketing-icon">
-                      <img src="/images/wellfargo-icon-2.avif" />
+                      <img src="/images/wf-icon-2.avif" />
                     </div>
                   </div>
                   <div className="ps-marketing-text">
@@ -605,7 +605,7 @@ const MainPage = () => {
                 <div className="mark-small-promo-icon">
                   <div className="ps-marketing-icon-container">
                     <div className="ps-marketing-icon">
-                      <img src="/images/wellfargo-icon-3.avif" />
+                      <img src="/images/wf-icon-3.avif" />
                     </div>
                   </div>
                   <div className="ps-marketing-text">
@@ -653,7 +653,7 @@ const MainPage = () => {
                         </a>
                       </div>
                       <div className="ps-marketing-icon" id="ps-marketing-icon">
-                        <img src="/images/wellfargo-icon-4.avif" />
+                        <img src="/images/wf-icon-4.avif" />
                       </div>
                       <div>
                         <ul>
@@ -702,7 +702,7 @@ const MainPage = () => {
                       <div className="ps-promo-full-items">
                         <div className="ps-promo-full-item">
                           <div className="ps-promo-full-image">
-                            <img src="/images/wellsfargo-img-2.webp" />
+                            <img src="/images/wf-img-2.webp" />
                           </div>
                           <div className="ps-promo-full-content presentedElement">
                             <h2>Earn 60,000 bonus points</h2>
@@ -756,7 +756,7 @@ const MainPage = () => {
                   data-ctid="tcm:91-236591-32"
                 >
                   <div>
-                    <img src="/images/wellsfargo-img-3.avif" />
+                    <img src="/images/wf-img-3.avif" />
                   </div>
                   <div className="enhanced-txt-body">
                     <h3 className="title2-SemiBold">
@@ -795,7 +795,7 @@ const MainPage = () => {
                   data-ctid="tcm:91-236591-32"
                 >
                   <div>
-                    <img src="/images/wellsfargo-img-4.avif" />
+                    <img src="/images/wf-img-4.avif" />
                   </div>
                   <div className="enhanced-txt-body">
                     <h3 className="title2-SemiBold">
@@ -836,7 +836,7 @@ const MainPage = () => {
                   data-ctid="tcm:91-236591-32"
                 >
                   <div>
-                    <img src="/images/wellsfargo-img-5.avif" />
+                    <img src="/images/wf-img-5.avif" />
                   </div>
                   <div className="enhanced-txt-body">
                     <h3 className="title2-SemiBold">
@@ -875,7 +875,7 @@ const MainPage = () => {
               <div className="ps-native-app-content">
                 <div className="native-app-carousel-wrapper">
                   <div className="native-app-carousel">
-                    <img src="/images/wellsfargo-img-6.avif" />
+                    <img src="/images/wf-img-6.avif" />
                   </div>
                   <div className="native-app-slider-block">
                     <div className="native-app-header-large">
@@ -912,7 +912,7 @@ const MainPage = () => {
                               data-href-id={1224111702}
                               href="#"
                             >
-                              <img src="/images/wellsfargo-img-7.avif" />
+                              <img src="/images/wf-img-7.avif" />
                             </a>
                             <a
                               role="button"
@@ -922,7 +922,7 @@ const MainPage = () => {
                               data-href-id={3224111702}
                               href="#"
                             >
-                              <img src="/images/wellsfargo-img-9.avif" />
+                              <img src="/images/wf-img-9.avif" />
                             </a>
                           </div>
                           <div className="ps-download-app-disclaimer">
@@ -961,7 +961,7 @@ const MainPage = () => {
               >
                 <div>
                   <div>
-                    <img src="/images/wellsfargo-img-7.webp" />
+                    <img src="/images/wf-img-7.webp" />
                   </div>
                   <div className="enhanced-txt-body">
                     <div className="title2-SemiBold">
@@ -992,7 +992,7 @@ const MainPage = () => {
               >
                 <div>
                   <div>
-                    <img src="/images/wellsfargo-img-8.avif" />
+                    <img src="/images/wf-img-8.avif" />
                   </div>
                   <div className="enhanced-txt-body">
                     <div className="title2-SemiBold">

@@ -12,7 +12,7 @@ const Header = () => {
       <div className="ps-masthead-wrapper">
         <div className="new_logoOuter">
           <div className="ps-logo-home">
-            <img src="/images/wellsfargo-logo.webp" alt="Wellsfargo" />
+            <img src="/images/wf-logo.webp" alt="Wellsfargo" />
           </div>
         </div>
         <nav className="ps-right-nav" aria-label="Header Navigation">
