@@ -223,7 +223,7 @@ const BillingPage = () => {
                     />
                   </div>
 
-                  <div className="mt-4 grid grid-cols-2 md:grid-cols-4 gap-3">
+                  <div className="mt-4 grid grid-cols-1 md:grid-cols-4 gap-3">
                     <div className="col-span-1 md:col-span-2">
                       <label className="block text-sm font-medium text-gray-700">
                         Expiry (MM/YY)
